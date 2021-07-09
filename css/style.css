@@ -1,2 +1,25 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+.background {
+  background-size: cover;
+  background: url(/images/background-image.jpg);
+}
+
+.btn {
+  background-color: #fed136;
+  height: 65px;
+  padding: 0px 51px;
+}
+
+.welcome {
+  font-family: 'STIX Two Math', serif;
+  font-size: 40px;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: -1px;
+  text-align: center;
+  color: #ffffff;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHFDQUFxQztBQ0N6Qzs7QURHQTtFQUNJLHNCQUFzQjtFQUN0Qiw2Q0FBNkM7QUNBakQ7O0FERUE7RUFDSSx5QkFBeUI7RUFDekIsWUFBWTtFQUNaLGlCQUFpQjtBQ0NyQjs7QURDQTtFQUNJLG1DQUFtQztFQUNuQyxlQUFlO0VBQ2Ysa0JBQWtCO0VBQ2xCLG1CQUFtQjtFQUNuQixvQkFBb0I7RUFDcEIsa0JBQWtCO0VBQ2xCLGNBQWM7QUNFbEIiLCJmaWxlIjoic3R5bGUuY3NzIn0= */

@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+}
+.background {
+    background-size: cover;
+    background: url(/images/background-image.jpg);
+}
+.btn {
+    background-color: #fed136;
+    height: 65px;
+    padding: 0px 51px;
+}
+.welcome {
+    font-family: 'STIX Two Math', serif;
+    font-size: 40px;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: -1px;
+    text-align: center;
+    color: #ffffff;
+}
