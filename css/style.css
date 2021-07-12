@@ -24,6 +24,8 @@ body {
   letter-spacing: -1px;
   text-align: center;
   color: white;
+  width: 430px;
+  height: 32px;
   margin: 205px 91px 52px 171px;
 }
 
@@ -34,4 +36,33 @@ h5 {
 h1 {
   color: white;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHFDQUFxQztBQ0N6Qzs7QURHQTtFQUNJLHNCQUFzQjtFQUN0Qiw2Q0FBNkM7RUFDN0MsYUFBYTtFQUNiLFdBQVc7QUNBZjs7QURFQTtFQUNJLHlCQUF5QjtFQUN6QixZQUFZO0VBQ1osaUJBQWlCO0VBQ2pCLFlBQVk7QUNDaEI7O0FEQ0E7RUFDSSxtQ0FBbUM7RUFDbkMsZUFBZTtFQUNmLGtCQUFrQjtFQUNsQixtQkFBbUI7RUFDbkIsb0JBQW9CO0VBQ3BCLGtCQUFrQjtFQUNsQixZQUFZO0VBQ1osNkJBQTZCO0FDRWpDOztBREFBO0VBQ0ksWUFBWTtBQ0doQjs7QUREQTtFQUNJLFlBQVk7QUNJaEIiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: -1px;
+  text-align: center;
+  color: #302f2f;
+}
+
+p {
+  height: 17px;
+  margin: 19px 48px 80px 42px;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #777777;
+}
+
+.col {
+  position: relative;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHFDQUFxQztBQ0N6Qzs7QURHQTtFQUNJLHNCQUFzQjtFQUN0Qiw2Q0FBNkM7RUFDN0MsYUFBYTtFQUNiLFdBQVc7QUNBZjs7QURFQTtFQUNJLHlCQUF5QjtFQUN6QixZQUFZO0VBQ1osaUJBQWlCO0VBQ2pCLFlBQVk7QUNDaEI7O0FEQ0E7RUFDSSxtQ0FBbUM7RUFDbkMsZUFBZTtFQUNmLGtCQUFrQjtFQUNsQixtQkFBbUI7RUFDbkIsb0JBQW9CO0VBQ3BCLGtCQUFrQjtFQUNsQixZQUFZO0VBQ1osWUFBWTtFQUNaLFlBQVk7RUFDWiw2QkFBNkI7QUNFakM7O0FEQ0E7RUFDSSxZQUFZO0FDRWhCOztBREFBO0VBQ0ksWUFBWTtBQ0doQjs7QURBQTtFQUNJLHFDQUFxQztFQUNyQyxlQUFlO0VBQ2YsaUJBQWlCO0VBQ2pCLG9CQUFvQjtFQUNwQixrQkFBa0I7RUFDbEIsaUJBQWlCO0VBQ2pCLG9CQUFvQjtFQUNwQixrQkFBa0I7RUFDbEIsY0FBYztBQ0dsQjs7QURBQTtFQUNJLFlBQVk7RUFDWiwyQkFBMkI7RUFDM0IsZUFBZTtFQUNmLG1CQUFtQjtFQUNuQixvQkFBb0I7RUFDcEIsa0JBQWtCO0VBQ2xCLG1CQUFtQjtFQUNuQixzQkFBc0I7RUFDdEIsa0JBQWtCO0VBQ2xCLGNBQWM7QUNHbEI7O0FEREE7RUFDSSxrQkFDSjtBQ0dBIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
